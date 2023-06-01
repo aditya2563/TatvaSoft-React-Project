@@ -1,2 +1,2 @@
 # TatvaSoft-React-Project
-TatvaSoft 15 days internship. Creating an E-commerce website using ReactJS.
+TatvaSoft 30 days internship. Creating an Online Book Store using ReactJS.
